@@ -1,0 +1,10 @@
+name = "OliveProfiler"
+uuid = "c3a3e59a-dbc1-4859-929f-11754879f5bd"
+authors = ["emmac <emmaccode@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Olive = "724ecaf6-c7a0-4c22-b37e-0bb7b4193da8"
+
+[compat]
+Olive = "0.2.4"
